@@ -184,6 +184,14 @@ const list = [
     uscg: 'MC',
   },
   {
+    name: 'Micronesia',
+    usps: 'FM',
+    demonym: 'Micronesian',
+    iso: 'FM',
+    altAbbr: [],
+    uscg: 'FM',
+  },
+  {
     name: 'Minnesota',
     usps: 'MN',
     demonym: 'Minnesotan',

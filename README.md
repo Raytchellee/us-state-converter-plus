@@ -1,19 +1,19 @@
 # us-state-converter
 
-The US State Converter package is a module that I made to convert state names to their USPS abbreviations or vice versa. I tried to make it as simple as possible but would any feedback!
+The US State Converter package is a module made by [Kevin Smith](https://kevinsmith.dev) to convert state names to their USPS abbreviations or vice versa. This repository is a port of [us-state-converter](https://github.com/keveightysev/us-state-converter). Any feedback will be appreciated.
 
 ## Installation
 
 NPM:
 
 ```bash
-npm install us-state-converter
+npm install us-state-converter-plus
 ```
 
 Yarn:
 
 ```bash
-yarn add us-state-converter
+yarn add us-state-converter-plus
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ yarn add us-state-converter
 Import the package first
 
 ```JavaScript
-const states = require('us-state-converter')
+const states = require('us-state-converter-plus')
 ```
 
 You can get a full list of objects for each US state and territory by calling the function with no parameters

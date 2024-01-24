@@ -1,7 +1,7 @@
 {
-  "name": "us-state-converter",
-  "version": "1.0.6",
-  "description": "A package that converts U.S. state abbreviations to full names and back",
+  "name": "us-state-converter-plus",
+  "version": "1.0.7",
+  "description": "A port of us-state-converter, a package that converts U.S. state abbreviations to full names and back",
   "main": "index.js",
   "author": {
     "name": "Kevin Smith",
@@ -16,10 +16,14 @@
     },
     {
       "name": "Edwin Chu"
+    },
+    {
+      "name": "Chiamaka Oforkaja",
+      "email": "amakaoforkaja@gmail.com"
     }
   ],
-  "bugs": "https://github.com/keveightysev/us-state-converter/issues",
-  "repository": "github:keveightysev/us-state-converter",
+  "bugs": "https://github.com/raytchellee/us-state-converter-plus/issues",
+  "repository": "github:raytchellee/us-state-converter-plus",
   "license": "MIT",
   "keywords": [
     "united states",
