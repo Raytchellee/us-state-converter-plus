@@ -160,6 +160,14 @@ const list = [
     uscg: 'ME',
   },
   {
+    name: 'Marshall Islands',
+    usps: 'MH',
+    demonym: 'Marshallese',
+    iso: 'MH',
+    altAbbr: [],
+    uscg: 'MH',
+  },
+  {
     name: 'Maryland',
     usps: 'MD',
     demonym: 'Marylander',
@@ -320,6 +328,14 @@ const list = [
     uscg: 'OR',
   },
   {
+    name: 'Palau',
+    usps: 'PW',
+    demonym: 'Palauan',
+    iso: 'PW',
+    altAbbr: [],
+    uscg: 'PW',
+  },
+  {
     name: 'Pennsylvania',
     usps: 'PA',
     demonym: 'Pennsylvanian',
@@ -382,6 +398,14 @@ const list = [
     iso: 'US-VT',
     altAbbr: [],
     uscg: 'VT',
+  },
+  {
+    name: 'Virgin Islands',
+    usps: 'VI',
+    demonym: 'Virgin Islander',
+    iso: 'VI',
+    altAbbr: ['USVI'],
+    uscg: 'VI',
   },
   {
     name: 'Virginia',
@@ -470,6 +494,30 @@ const list = [
     iso: 'US-UM',
     altAbbr: [],
     uscg: 'UM',
+  },
+  {
+    name: 'Armed Forces Americas',
+    usps: 'AA',
+    demonym: '',
+    iso: 'AA',
+    altAbbr: [],
+    uscg: 'AA',
+  },
+  {
+    name: 'Armed Forces Europe, Canada, Africa and Middle East',
+    usps: 'AE',
+    demonym: '',
+    iso: 'AE',
+    altAbbr: [],
+    uscg: 'AE',
+  },
+  {
+    name: 'Armed Forces Pacific',
+    usps: 'AP',
+    demonym: '',
+    iso: 'AP',
+    altAbbr: [],
+    uscg: 'AP',
   },
 ]
 
